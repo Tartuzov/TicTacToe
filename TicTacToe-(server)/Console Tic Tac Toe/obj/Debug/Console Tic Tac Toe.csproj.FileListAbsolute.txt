@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Console Tic Tac Toe\Console Tic Tac Toe\bin\Debug\Console Tic Tac Toe.exe.config
+C:\Users\PC\source\repos\Console Tic Tac Toe\Console Tic Tac Toe\bin\Debug\Console Tic Tac Toe.exe
+C:\Users\PC\source\repos\Console Tic Tac Toe\Console Tic Tac Toe\bin\Debug\Console Tic Tac Toe.pdb
+C:\Users\PC\source\repos\Console Tic Tac Toe\Console Tic Tac Toe\obj\Debug\Console Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Console Tic Tac Toe\Console Tic Tac Toe\obj\Debug\Console Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Console Tic Tac Toe\Console Tic Tac Toe\obj\Debug\Console Tic Tac Toe.exe
+C:\Users\PC\source\repos\Console Tic Tac Toe\Console Tic Tac Toe\obj\Debug\Console Tic Tac Toe.pdb
+C:\Users\Тарас\Desktop\TicTacToe\TicTacToe-(server)\Console Tic Tac Toe\bin\Debug\Console Tic Tac Toe.exe.config
+C:\Users\Тарас\Desktop\TicTacToe\TicTacToe-(server)\Console Tic Tac Toe\bin\Debug\Console Tic Tac Toe.exe
+C:\Users\Тарас\Desktop\TicTacToe\TicTacToe-(server)\Console Tic Tac Toe\bin\Debug\Console Tic Tac Toe.pdb
+C:\Users\Тарас\Desktop\TicTacToe\TicTacToe-(server)\Console Tic Tac Toe\obj\Debug\Console Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\Тарас\Desktop\TicTacToe\TicTacToe-(server)\Console Tic Tac Toe\obj\Debug\Console Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\Тарас\Desktop\TicTacToe\TicTacToe-(server)\Console Tic Tac Toe\obj\Debug\Console Tic Tac Toe.exe
+C:\Users\Тарас\Desktop\TicTacToe\TicTacToe-(server)\Console Tic Tac Toe\obj\Debug\Console Tic Tac Toe.pdb
